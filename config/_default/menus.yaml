@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 94a6b993-49b0-3ea8-a5c0-a911b9c5d985
+  name: Textbook Contents
+  pageRef: /pages/textbook-contents
+  weight: 10
+- identifier: 1f60cd19-0fe4-00fe-b211-614315453a93
+  name: Solutions Manual
+  pageRef: /pages/solutions-manual
+  weight: 20
